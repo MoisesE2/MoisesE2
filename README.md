@@ -1,5 +1,7 @@
 ### Olá Mundo! Meu nome é Moisés Eduardo :)
 
+##
+
 - 🔭 Atualmente infelizmente não trabalho com programação, mas procuro oportunidades na área!!!
 - 🌱 Estudando Python & Javascript
 - 😄 18 Years
@@ -16,7 +18,7 @@
 
 ##
 
-<div> 
+</div>
   Redes Sociais: 
   
   <a href="https://www.youtube.com/channel/UCsDYL39iz_e0MvSYXAV8wKQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -26,3 +28,5 @@
   <a href="https://www.linkedin.com/in/mois%C3%A9s-eduardo-gomes-da-costa-a1972324b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
