@@ -1,6 +1,6 @@
 ### Olá Mundo! Meu nome é Moisés Eduardo :)
 
-- 🔭 Atualmente não trabalho com programação
+- 🔭 Atualmente infelizmente não trabalho com programação, mas procuro oportunidades na área
 - 🌱 Estudando Python & Javascript
 - 😄 18 Years
 - ⚡ Cursando Desenvolvimento Full Stack na Universidade Estácio de Sá
