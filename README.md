@@ -13,6 +13,8 @@
   Insignias:
   <img align="center" alt="Moisés-Js" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Moisés-Js" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Moisés-Js" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+   <img align="center" alt="Moisés-Js" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="right" alt="Moisés-gif" height="120" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/816843431744897024/1090013514913022052/tumblr_m7r9ppZc2G1rn49rzo2_250.gif">
 </div>
 
