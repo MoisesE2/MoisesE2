@@ -2,7 +2,7 @@
 
 ##
 
-- 🔭 Atualmente infelizmente não trabalho com programação, mas procuro oportunidades na área!!!
+- 🔭 Procurando oportunidades na área de programação
 - 🌱 Estudando Programação
 - 😄 18 Years
 - ⚡ Cursando Desenvolvimento Full Stack na Universidade Estácio de Sá
