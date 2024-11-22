@@ -4,7 +4,7 @@
 
 - 🔭 Procurando oportunidades na área de programação
 - 🌱 Estudando Programação
-- 😄 18 Years
+- 😄 20 Years
 - ⚡ Cursando Desenvolvimento Full Stack na Universidade Estácio de Sá
 
 ##
