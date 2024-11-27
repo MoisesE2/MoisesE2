@@ -5,7 +5,7 @@
 - 🔭 Procurando oportunidades na área de programação
 - 🌱 Estudando Programação
 - 😄 20 Years
-- ⚡ Cursando Desenvolvimento Full Stack na Universidade Estácio de Sá
+- ⚡ Cursando Desenvolvimento Full Stack na Universidade Estácio de Sá (5º Semestre)
 
 ##
 
@@ -27,5 +27,3 @@
   <a href="https://www.linkedin.com/in/mois%C3%A9s-eduardo-gomes-da-costa-a1972324b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
