@@ -1,12 +1,11 @@
-### Olá Mundo! Meu nome é Moisés Eduardo
+###Meu nome é Moisés Eduardo
 
 ##
 
 - 🔭 Procurando oportunidades na área de programação
-- 💼 Desenvolvedor Full Stack
+- 💼 Desenvolvedor Full Stack (Graduado) 
 - 🌱 Estudando Programação
-- 😄 20 Years
-- ⚡ Cursando Desenvolvimento Full Stack na Universidade Estácio de Sá (5º Semestre)
+- 😄 21 Anos
 
 
 </div>
