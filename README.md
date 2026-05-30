@@ -21,8 +21,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MoisesE2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesE2&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MoisesE2&theme=github_dark" height="165" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MoisesE2&theme=github_dark" height="165" alt="Top Languages"/>
 </p>
 
 ---
@@ -49,73 +49,38 @@ Desenvolvedor Full Stack — web e mobile, front-end ao banco de dados. Foco em 
 
 ## Projetos
 
-<table>
-<tr>
-<td width="50%">
+**Currister** — Automação de candidaturas (LinkedIn Easy Apply)  
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/>
 
-**Currister** — Automação de candidaturas (LinkedIn Easy Apply)
+**Rotom Nav-Dex** — Pokédex com Turborepo e PokéAPI  
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white" alt="Turborepo"/>
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+**Termômetro IPF** — Captação por cotas + painel admin  
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/Fastify-111827?style=flat-square&logo=fastify&logoColor=white" alt="Fastify"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 
-</td>
-<td width="50%">
+**Portfólio** — Site bilíngue, a11y, SEO e testes  
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/> <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest"/>
 
-**Rotom Nav-Dex** — Pokédex com Turborepo e PokéAPI
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white"/>
-
-</td>
-</tr>
-<tr>
-<td>
-
-**Termômetro IPF** — Captação por cotas + painel admin
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-
-</td>
-<td>
-
-**Portfólio** — Site bilíngue, a11y, SEO e testes
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white"/>
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
-  <span>&nbsp;·&nbsp;</span>
-  <strong>E-commerce Mobile</strong> — Expo Router, tabs, drawer e Share nativo
-</p>
+**E-commerce Mobile** — Expo Router, tabs, drawer e Share nativo  
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native"/> <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
 
 ---
 
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css,nodejs,express,fastify,postgres,mysql,sqlite,prisma,expo,jest,docker,git,github,figma,python,java&perline=10" alt="Skills"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,postgres,prisma,expo,docker,git,python,java&perline=6" alt="Skills"/>
 </p>
 
-| | |
-|---|---|
-| **Front-end** | React, Next.js, ShadCN, Radix, Framer Motion, Zod, i18next, a11y |
-| **Mobile** | React Native, Expo Router, SQLite, SecureStore |
-| **Back-end** | Node.js, Express, Fastify, REST, NextAuth.js |
-| **Dados** | PostgreSQL, MySQL, SQLite, Prisma |
-| **Idiomas** | Português (nativo) · Inglês B1 |
+**Front-end:** React · Next.js · ShadCN · Radix · Tailwind · Framer Motion · Zod · i18next · a11y  
+
+**Mobile:** React Native · Expo Router · SQLite · SecureStore  
+
+**Back-end:** Node.js · Express · Fastify · REST · NextAuth.js  
+
+**Dados:** PostgreSQL · MySQL · SQLite · Prisma  
+
+**Idiomas:** Português (nativo) · Inglês B1
 
 ---
 
