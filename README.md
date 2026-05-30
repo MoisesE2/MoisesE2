@@ -69,7 +69,7 @@ Desenvolvedor Full Stack — web e mobile, front-end ao banco de dados. Foco em 
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,postgres,prisma,expo,docker,git,python,java&perline=6" alt="Skills"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,postgres,prisma,vite,docker,git,python,java&perline=6" alt="Skills"/>
 </p>
 
 **Front-end:** React · Next.js · ShadCN · Radix · Tailwind · Framer Motion · Zod · i18next · a11y  
