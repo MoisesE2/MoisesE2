@@ -1,8 +1,8 @@
 <h1 align="center">Moisés Eduardo Gomes da Costa</h1>
 
 <p align="center">
-  <strong>Desenvolvedor Full Stack</strong><br/>
-  Maceió, AL — Brasil
+  <img src="https://img.shields.io/badge/Full_Stack-Developer-0F172A?style=for-the-badge" alt="Full Stack Developer"/>
+  <img src="https://img.shields.io/badge/Maceió-AL-0891B2?style=for-the-badge" alt="Maceió AL"/>
 </p>
 
 <p align="center">
@@ -15,127 +15,122 @@
   <a href="https://moises.gcodevs.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio"/>
   </a>
+  <a href="https://www.instagram.com/moises_e1/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MoisesE2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesE2&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages"/>
 </p>
 
 ---
 
 ## Sobre
 
-Desenvolvedor Full Stack com experiência em aplicações **web e mobile** modernas, responsivas e acessíveis. Atuo de ponta a ponta — front-end, mobile, back-end e banco de dados — com foco em **qualidade de código**, **performance** e **experiência do usuário**.
+Desenvolvedor Full Stack — web e mobile, front-end ao banco de dados. Foco em código limpo, performance, UX e acessibilidade.
 
-**Stack principal:** React, Next.js, TypeScript, Tailwind CSS, React Native (Expo), Node.js, PostgreSQL/MySQL e Prisma.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,postgres,prisma,docker,git&perline=9" alt="Stack principal"/>
+</p>
 
 ---
 
 ## Experiência
 
-| Empresa | Cargo | Período |
-|---------|-------|---------|
-| **Afirme Play** | Desenvolvedor Full Stack | Nov/2025 — Atual |
-| **Innovplay** | Desenvolvedor Full Stack | Ago/2025 — Nov/2025 |
-| **TechFullStack** | Desenvolvedor Front-end (Freelancer) | Out/2024 — Fev/2025 |
-
-### Afirme Play
-- Plataforma educacional com avaliações, correção automática/manual e relatórios por aluno e turma.
-- Dashboard web em **React + TypeScript + Tailwind + ShadCN/Radix**, com Editor.js, FullCalendar e formulários (React Hook Form + Zod).
-- App mobile em **React Native/Expo** com SQLite local e autenticação via Expo SecureStore.
-- Back-end **Node.js** com **RBAC** (professor, coordenador, diretor, admin).
-
-### Innovplay
-- Interfaces web com React, TypeScript e Tailwind; ciclo completo com contribuições no back-end Node.js.
-- Trabalho em equipe ágil, code review e versionamento com Git/GitHub.
-
-### TechFullStack (Freelancer)
-- Portfólios e sites institucionais com **Next.js**, TypeScript, Tailwind e Framer Motion.
-- Autenticação (NextAuth.js), Prisma + PostgreSQL e painéis administrativos com CRUD.
+| Empresa | Cargo | Período | Destaque |
+|---------|-------|---------|----------|
+| **Afirme Play** | Full Stack | Nov/2025 — Atual | Dashboard React, app Expo, RBAC Node.js |
+| **Innovplay** | Full Stack | Ago/2025 — Nov/2025 | React + Node.js, equipe ágil |
+| **TechFullStack** | Front-end (Freelancer) | Out/2024 — Fev/2025 | Next.js, NextAuth, Prisma |
 
 ---
 
-## Projetos em destaque
+## Projetos
 
-### Currister — Automação de candidaturas
-Plataforma pessoal para busca e envio de candidaturas no LinkedIn (Easy Apply), com match por currículo, fila de jobs e dashboard de pipeline.
+<table>
+<tr>
+<td width="50%">
 
-`Node.js` · `TypeScript` · `React` · `Express` · `BullMQ` · `Redis` · `Playwright` · `Prisma` · `SQLite`
+**Currister** — Automação de candidaturas (LinkedIn Easy Apply)
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+
+</td>
+<td width="50%">
+
+**Rotom Nav-Dex** — Pokédex com Turborepo e PokéAPI
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white"/>
+
+</td>
+</tr>
+<tr>
+<td>
+
+**Termômetro IPF** — Captação por cotas + painel admin
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+
+</td>
+<td>
+
+**Portfólio** — Site bilíngue, a11y, SEO e testes
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white"/>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
+  <span>&nbsp;·&nbsp;</span>
+  <strong>E-commerce Mobile</strong> — Expo Router, tabs, drawer e Share nativo
+</p>
 
 ---
 
-### Rotom Nav-Dex
-Monorepo **Turborepo** com Pokédex completa: filtros, calculadoras competitivas, team builder (export Showdown) e mapa interativo via PokéAPI.
+## Stack
 
-`Next.js` · `React 19` · `TypeScript` · `Tailwind CSS` · `TanStack Query` · `Zustand`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css,nodejs,express,fastify,postgres,mysql,sqlite,prisma,expo,jest,docker,git,github,figma,python,java&perline=10" alt="Skills"/>
+</p>
 
----
-
-### Termômetro IPF
-Sistema de captação por cotas: painel administrativo e página pública, com importação/exportação Excel.
-
-`Next.js 15` · `React 19` · `Fastify` · `Prisma` · `PostgreSQL` · `JWT`
-
----
-
-### Portfólio pessoal
-Site bilíngue (PT/EN) com foco em **acessibilidade (a11y)**, **SEO**, testes automatizados (Jest) e cobertura de código.
-
-`React 19` · `TypeScript` · `Vite` · `Tailwind CSS` · `i18next`
-
----
-
-### E-commerce Mobile
-App mobile com **Expo Router**: navegação por tabs e drawer, fluxo de compra, checkout e compartilhamento nativo (`Share`).
-
-`React Native` · `Expo` · `TypeScript`
-
----
-
-## Stack técnica
-
-**Front-end**  
-React 19, Next.js, TypeScript, Tailwind CSS, ShadCN/UI, Radix UI, Framer Motion, React Hook Form, Zod, i18next, HTML5/CSS3, design responsivo, a11y
-
-**Mobile**  
-React Native, Expo (Router, SQLite, SecureStore, Updates)
-
-**Back-end & Auth**  
-Node.js, Express, Fastify, Prisma, REST APIs, NextAuth.js
-
-**Banco de dados**  
-PostgreSQL, MySQL, SQLite
-
-**Outras linguagens**  
-Java, Python
-
-**Ferramentas & DevOps**  
-Git, GitHub, Docker, Vite, Turborepo, Jest, Testing Library, ESLint, Postman, Figma, Miro
+| | |
+|---|---|
+| **Front-end** | React, Next.js, ShadCN, Radix, Framer Motion, Zod, i18next, a11y |
+| **Mobile** | React Native, Expo Router, SQLite, SecureStore |
+| **Back-end** | Node.js, Express, Fastify, REST, NextAuth.js |
+| **Dados** | PostgreSQL, MySQL, SQLite, Prisma |
+| **Idiomas** | Português (nativo) · Inglês B1 |
 
 ---
 
 ## Formação
 
-- **Graduação em Desenvolvimento Full Stack** — Universidade Estácio de Sá (2023–2025)
-- **Passport to Success®** — International Youth Foundation
-- **Técnico em Eletromecânica** — EEEP Eusébio de Queiroz (2020–2022)
-
----
-
-## Idiomas
-
-| Idioma | Nível |
-|--------|-------|
-| Português | Nativo |
-| Inglês | Intermediário (B1) |
-
----
-
-## Contato
-
-📍 Maceió, AL — Brasil  
-💼 [LinkedIn](https://www.linkedin.com/in/moises-e2/)  
-🐙 [GitHub](https://github.com/MoisesE2)  
-🌐 [Portfólio](https://moises.gcodevs.com/)
+<img src="https://img.shields.io/badge/Full_Stack-Estácio_de_Sá-1E40AF?style=flat-square"/>
+<img src="https://img.shields.io/badge/IYF-Passport_to_Success-059669?style=flat-square"/>
+<img src="https://img.shields.io/badge/Técnico-Eletromecânica-64748B?style=flat-square"/>
 
 ---
 
 <p align="center">
-  <sub>Perfil atualizado com base em experiência profissional e projetos em produção.</sub>
+  <img src="https://img.shields.io/badge/Local-Maceió__AL-0891B2?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/moises-e2/"><img src="https://img.shields.io/badge/LinkedIn-perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/MoisesE2"><img src="https://img.shields.io/badge/GitHub-MoisesE2-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://moises.gcodevs.com/"><img src="https://img.shields.io/badge/Site-moises.gcodevs.com-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://www.instagram.com/moises_e1/"><img src="https://img.shields.io/badge/Instagram-@moises_e1-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
